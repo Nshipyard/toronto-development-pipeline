@@ -1,0 +1,300 @@
+permit_type,year,n,median_days,p25_days,p75_days
+Building Additions/Alterations,1995,10,90.5,72.5,128.8
+Building Additions/Alterations,1996,28,29.5,20.5,73.2
+Building Additions/Alterations,1997,16,96.5,47.8,211.0
+Building Additions/Alterations,1998,80,43.0,24.0,81.2
+Building Additions/Alterations,1999,65,51,28.5,85.0
+Building Additions/Alterations,2001,154,36.0,13.0,90.0
+Building Additions/Alterations,2002,294,49.0,21.0,96.2
+Building Additions/Alterations,2003,341,47,19.0,92.5
+Building Additions/Alterations,2004,408,42.0,16.2,88.0
+Building Additions/Alterations,2005,541,28,8.0,71.0
+Building Additions/Alterations,2006,641,21,10.0,43.0
+Building Additions/Alterations,2007,753,23,12.0,49.0
+Building Additions/Alterations,2008,704,27.0,13.2,52.0
+Building Additions/Alterations,2009,687,28,13.0,60.0
+Building Additions/Alterations,2010,864,30.0,15.0,63.8
+Building Additions/Alterations,2011,1107,28,14.0,56.0
+Building Additions/Alterations,2012,1161,31,15.0,59.5
+Building Additions/Alterations,2013,1261,29,15.0,58.0
+Building Additions/Alterations,2014,1336,27.0,14.0,52.0
+Building Additions/Alterations,2015,1323,29,15.0,54.0
+Building Additions/Alterations,2016,1379,30,15.0,56.0
+Building Additions/Alterations,2017,1662,32.0,16.0,62.0
+Building Additions/Alterations,2018,1660,32.0,17.0,57.0
+Building Additions/Alterations,2019,1799,34,19.0,65.0
+Building Additions/Alterations,2020,1324,36.0,22.0,75.0
+Building Additions/Alterations,2021,1455,40,24.0,76.0
+Building Additions/Alterations,2022,1552,43.0,29.0,96.0
+Building Additions/Alterations,2023,1468,40.0,23.0,79.8
+Building Additions/Alterations,2024,1646,41.0,26.0,78.0
+Building Additions/Alterations,2025,2315,36,26.0,62.0
+Building Additions/Alterations,2026,2547,31,20.0,46.0
+Conditional Permit,2024,12,98.0,20.8,195.5
+Conditional Permit,2025,54,60.5,29.0,116.0
+Conditional Permit,2026,86,47.0,24.0,84.2
+Demolition Folder (DM),2015,15,42,27.0,70.0
+Demolition Folder (DM),2016,18,71.0,39.2,268.8
+Demolition Folder (DM),2017,29,271,55.5,1116.0
+Demolition Folder (DM),2018,32,67.0,42.5,188.2
+Demolition Folder (DM),2019,52,73.5,50.2,248.0
+Demolition Folder (DM),2020,47,100,61.0,323.0
+Demolition Folder (DM),2021,74,72.5,43.0,195.2
+Demolition Folder (DM),2022,169,194,69.0,414.0
+Demolition Folder (DM),2023,179,123,52.0,245.0
+Demolition Folder (DM),2024,293,102,48.5,261.5
+Demolition Folder (DM),2025,382,79.0,45.8,174.0
+Demolition Folder (DM),2026,337,46,27.5,72.0
+Designated Structures,2004,16,67.0,43.8,147.8
+Designated Structures,2007,10,44.5,17.0,115.2
+Designated Structures,2009,13,32,27.5,97.5
+Designated Structures,2010,12,28.0,21.0,98.0
+Designated Structures,2011,51,42,28.0,86.0
+Designated Structures,2012,36,32.5,29.2,55.5
+Designated Structures,2013,44,33.0,16.2,50.0
+Designated Structures,2014,22,38.5,19.5,70.0
+Designated Structures,2015,24,45.0,25.8,57.8
+Designated Structures,2016,35,31,22.0,48.0
+Designated Structures,2017,81,31,28.0,45.0
+Designated Structures,2018,37,33,27.5,58.5
+Designated Structures,2019,30,29.0,21.5,38.2
+Designated Structures,2020,14,35.5,25.5,74.8
+Designated Structures,2021,22,102.0,28.8,252.2
+Designated Structures,2022,20,43.5,32.2,65.0
+Designated Structures,2023,23,51,27.0,139.0
+Designated Structures,2024,47,42,13.0,146.0
+Designated Structures,2025,206,15.0,8.0,38.2
+Designated Structures,2026,485,6,4.0,14.0
+Drain and Site Service,2004,36,16.5,8.0,64.8
+Drain and Site Service,2005,149,15,5.0,63.0
+Drain and Site Service,2006,141,8,2.0,22.5
+Drain and Site Service,2007,163,13,0.0,36.0
+Drain and Site Service,2008,220,4.5,0.0,33.8
+Drain and Site Service,2009,184,17.0,0.0,65.0
+Drain and Site Service,2010,179,19,0.0,59.0
+Drain and Site Service,2011,257,15,0.0,79.5
+Drain and Site Service,2012,275,15,0.0,92.0
+Drain and Site Service,2013,303,19,0.0,63.0
+Drain and Site Service,2014,365,10,0.0,56.0
+Drain and Site Service,2015,636,46.5,3.0,264.2
+Drain and Site Service,2016,576,21.0,0.0,160.5
+Drain and Site Service,2017,553,8,0.0,70.5
+Drain and Site Service,2018,541,25,0.0,105.0
+Drain and Site Service,2019,593,25,0.0,103.5
+Drain and Site Service,2020,577,27,4.0,101.0
+Drain and Site Service,2021,795,40,9.0,178.0
+Drain and Site Service,2022,924,57.0,14.0,177.0
+Drain and Site Service,2023,1089,66,13.0,186.0
+Drain and Site Service,2024,1461,30,3.0,96.0
+Drain and Site Service,2025,1936,35.0,8.0,97.0
+Drain and Site Service,2026,1679,19,4.0,43.0
+Fire/Security Upgrade,1998,14,20.5,20.0,32.8
+Fire/Security Upgrade,2001,26,22.0,9.0,66.8
+Fire/Security Upgrade,2002,46,16.5,10.8,32.0
+Fire/Security Upgrade,2003,42,27.0,12.0,57.0
+Fire/Security Upgrade,2004,53,14,6.5,36.0
+Fire/Security Upgrade,2005,61,12,2.5,41.0
+Fire/Security Upgrade,2006,67,16,7.0,25.0
+Fire/Security Upgrade,2007,80,18.5,6.0,34.5
+Fire/Security Upgrade,2008,84,20.5,6.0,34.0
+Fire/Security Upgrade,2009,108,27.0,14.0,55.2
+Fire/Security Upgrade,2010,105,24,13.0,54.0
+Fire/Security Upgrade,2011,144,22.0,10.0,37.0
+Fire/Security Upgrade,2012,140,26.0,11.0,44.8
+Fire/Security Upgrade,2013,173,25,9.0,36.0
+Fire/Security Upgrade,2014,206,23.0,10.0,31.2
+Fire/Security Upgrade,2015,187,27,14.0,33.0
+Fire/Security Upgrade,2016,198,29.0,21.8,34.0
+Fire/Security Upgrade,2017,225,28,13.0,36.0
+Fire/Security Upgrade,2018,267,27,14.0,34.0
+Fire/Security Upgrade,2019,235,29,14.0,35.0
+Fire/Security Upgrade,2020,211,30,17.0,41.0
+Fire/Security Upgrade,2021,245,30,14.0,40.0
+Fire/Security Upgrade,2022,243,30,16.0,39.0
+Fire/Security Upgrade,2023,226,28.0,9.8,38.0
+Fire/Security Upgrade,2024,254,28.0,14.0,39.2
+Fire/Security Upgrade,2025,372,25.0,7.0,33.0
+Fire/Security Upgrade,2026,460,20.0,6.0,31.8
+Mechanical(MS),1996,10,19.0,7.5,40.8
+Mechanical(MS),1997,10,20.0,8.8,49.2
+Mechanical(MS),1998,64,41.5,13.2,72.0
+Mechanical(MS),1999,66,38.5,12.8,76.8
+Mechanical(MS),2000,111,21,11.0,35.0
+Mechanical(MS),2001,112,21.0,8.0,60.0
+Mechanical(MS),2002,270,35.5,15.0,121.5
+Mechanical(MS),2003,489,39,15.0,100.0
+Mechanical(MS),2004,566,46.0,15.0,125.0
+Mechanical(MS),2005,640,38.0,12.0,104.0
+Mechanical(MS),2006,719,20,9.0,47.0
+Mechanical(MS),2007,895,24,13.0,54.0
+Mechanical(MS),2008,881,26,12.0,60.0
+Mechanical(MS),2009,738,28.0,14.0,61.2
+Mechanical(MS),2010,930,28.0,15.0,69.0
+Mechanical(MS),2011,1024,28.0,14.0,58.0
+Mechanical(MS),2012,1083,48,20.0,120.0
+Mechanical(MS),2013,1250,39.0,21.0,116.2
+Mechanical(MS),2014,1106,31.0,15.0,66.0
+Mechanical(MS),2015,1508,43.0,20.0,218.0
+Mechanical(MS),2016,1208,32.0,15.0,73.8
+Mechanical(MS),2017,1272,32.0,18.0,71.0
+Mechanical(MS),2018,1396,30.0,17.0,65.0
+Mechanical(MS),2019,1475,35,19.0,78.0
+Mechanical(MS),2020,1173,38,17.0,86.0
+Mechanical(MS),2021,1861,53,22.0,374.5
+Mechanical(MS),2022,1771,49,24.0,141.0
+Mechanical(MS),2023,1939,49,27.0,141.0
+Mechanical(MS),2024,2365,42,24.0,91.0
+Mechanical(MS),2025,3390,36.5,18.0,79.2
+Mechanical(MS),2026,3690,27.0,15.0,44.0
+Multiple Use Permit,2000,41,63,13.0,316.0
+Multiple Use Permit,2001,11,148,24.0,467.0
+Multiple Use Permit,2002,21,176,41.5,547.5
+Multiple Use Permit,2003,19,113,58.0,245.0
+New Building,2004,59,405,340.0,663.0
+New Building,2005,37,315,98.5,510.5
+New Building,2006,46,309.0,67.5,629.2
+New Building,2007,58,631.0,210.0,950.0
+New Building,2008,56,439.0,100.5,872.2
+New Building,2009,43,314,85.0,847.0
+New Building,2010,82,238.0,85.5,655.5
+New Building,2011,86,471.5,157.2,804.0
+New Building,2012,93,371,131.0,666.0
+New Building,2013,111,278,60.0,851.0
+New Building,2014,107,538,49.0,1060.0
+New Building,2015,92,167.0,50.2,658.5
+New Building,2016,95,168,52.0,790.0
+New Building,2017,112,492.0,57.5,1018.5
+New Building,2018,116,436.0,51.0,966.5
+New Building,2019,116,605.5,89.0,1246.8
+New Building,2020,129,257,78.5,1044.5
+New Building,2021,160,753.0,67.5,1192.2
+New Building,2022,116,219.5,61.0,634.2
+New Building,2023,95,342,95.0,719.0
+New Building,2024,149,184,47.5,372.0
+New Building,2025,130,83.5,40.8,183.8
+New Building,2026,91,45,29.0,84.0
+New Houses,1998,12,56.5,51.0,148.2
+New Houses,1999,15,65,43.0,100.0
+New Houses,2004,237,191,82.0,348.0
+New Houses,2005,275,82,35.0,193.0
+New Houses,2006,289,31,14.0,98.0
+New Houses,2007,302,61.0,24.0,148.8
+New Houses,2008,187,36,21.0,75.0
+New Houses,2009,238,63.0,28.0,118.2
+New Houses,2010,199,57,29.0,124.0
+New Houses,2011,310,50.0,30.0,102.0
+New Houses,2012,399,145,60.0,461.0
+New Houses,2013,349,72,31.0,200.0
+New Houses,2014,383,115,34.0,685.0
+New Houses,2015,891,523,145.0,768.0
+New Houses,2016,355,80,34.0,339.0
+New Houses,2017,333,67,27.5,331.0
+New Houses,2018,399,53,27.0,109.0
+New Houses,2019,631,94,34.0,546.0
+New Houses,2020,369,56,25.5,143.0
+New Houses,2021,803,403,60.0,1003.0
+New Houses,2022,664,97.5,44.0,172.0
+New Houses,2023,803,94,40.0,186.0
+New Houses,2024,861,66,35.5,171.0
+New Houses,2025,1060,54.0,28.0,122.8
+New Houses,2026,778,43.0,22.8,66.0
+Non-Residential Building Permit,1999,62,72.5,27.5,135.5
+Non-Residential Building Permit,2000,218,42.0,10.8,92.2
+Non-Residential Building Permit,2001,46,56.5,14.5,147.0
+Non-Residential Building Permit,2002,40,96.0,23.0,206.8
+Non-Residential Building Permit,2003,52,93.5,42.8,201.2
+Non-Residential Building Permit,2004,23,91,46.0,206.0
+Partial Permit,2004,10,51.5,6.0,177.8
+Partial Permit,2017,14,6.0,6.0,6.0
+Partial Permit,2025,10,98.0,4.0,351.5
+Partial Permit,2026,19,60,34.0,117.0
+Plumbing(PS),1996,16,2.5,0.0,22.0
+Plumbing(PS),1998,33,8,0.0,54.5
+Plumbing(PS),1999,55,7,0.0,22.0
+Plumbing(PS),2000,98,13.0,0.0,71.2
+Plumbing(PS),2001,154,14.0,0.0,68.0
+Plumbing(PS),2002,335,49,0.0,120.0
+Plumbing(PS),2003,653,18,0.0,89.0
+Plumbing(PS),2004,727,25,0.0,98.0
+Plumbing(PS),2005,796,22.0,0.0,79.8
+Plumbing(PS),2006,847,11,0.0,37.0
+Plumbing(PS),2007,958,15.0,0.0,42.0
+Plumbing(PS),2008,1012,15.0,0.0,41.0
+Plumbing(PS),2009,1075,23,5.0,55.0
+Plumbing(PS),2010,1342,23.0,5.0,51.0
+Plumbing(PS),2011,1331,23,4.0,51.0
+Plumbing(PS),2012,1484,29.0,4.0,78.0
+Plumbing(PS),2013,1414,30.0,8.0,75.0
+Plumbing(PS),2014,1332,24.0,9.0,49.8
+Plumbing(PS),2015,1872,28.0,10.0,91.0
+Plumbing(PS),2016,1592,28.0,10.0,55.0
+Plumbing(PS),2017,1656,29.0,10.0,57.0
+Plumbing(PS),2018,1650,29.0,15.0,61.0
+Plumbing(PS),2019,2032,39.0,21.0,84.0
+Plumbing(PS),2020,1431,35,15.0,78.0
+Plumbing(PS),2021,2321,49,22.0,202.0
+Plumbing(PS),2022,2309,47,19.0,125.5
+Plumbing(PS),2023,2388,49.0,24.0,123.0
+Plumbing(PS),2024,2665,40,16.0,95.0
+Plumbing(PS),2025,4049,35,15.0,77.0
+Plumbing(PS),2026,3951,25,7.0,44.0
+Portable Classrooms,2007,17,29,25.0,82.0
+Portable Classrooms,2009,10,46.5,33.2,130.5
+Portable Classrooms,2011,20,62.5,30.8,168.2
+Portable Classrooms,2012,20,45.0,29.0,97.2
+Portable Classrooms,2013,16,82.5,29.8,99.0
+Portable Classrooms,2014,22,34.5,22.5,253.0
+Portable Classrooms,2015,12,47.5,29.2,61.5
+Portable Classrooms,2017,13,46,29.5,75.5
+Portable Classrooms,2018,14,46.0,30.8,138.0
+Residential Building Permit,1998,16,81.5,38.5,139.0
+Residential Building Permit,1999,200,31.0,0.0,78.8
+Residential Building Permit,2000,847,36,0.0,187.0
+Residential Building Permit,2001,244,78.0,25.2,199.0
+Residential Building Permit,2002,281,89,39.5,174.0
+Residential Building Permit,2003,369,80,31.0,159.0
+Residential Building Permit,2004,130,85.5,42.0,333.0
+Residential Building Permit,2005,21,13,13.0,32.0
+Small Residential Projects,1990,10,0.0,0.0,73.8
+Small Residential Projects,1991,11,1,0.0,82.0
+Small Residential Projects,1992,13,6,0.0,63.0
+Small Residential Projects,1993,10,39.5,19.2,85.2
+Small Residential Projects,1994,16,29.5,1.8,80.5
+Small Residential Projects,1995,15,117,8.0,307.0
+Small Residential Projects,1996,67,22,0.0,42.0
+Small Residential Projects,1997,48,40.5,6.5,236.0
+Small Residential Projects,1998,167,34,0.0,76.0
+Small Residential Projects,1999,171,21,0.0,56.0
+Small Residential Projects,2001,419,10,0.0,49.0
+Small Residential Projects,2002,615,12,0.0,61.0
+Small Residential Projects,2003,950,10.0,0.0,50.0
+Small Residential Projects,2004,1029,11,0.0,56.5
+Small Residential Projects,2005,1148,7.0,0.0,43.8
+Small Residential Projects,2006,1065,8,0.0,26.0
+Small Residential Projects,2007,1175,13,0.0,31.0
+Small Residential Projects,2008,1225,14,3.0,29.0
+Small Residential Projects,2009,1068,13.0,3.0,36.8
+Small Residential Projects,2010,1233,13,4.0,35.0
+Small Residential Projects,2011,1218,14.0,5.0,40.0
+Small Residential Projects,2012,1249,15,4.0,54.0
+Small Residential Projects,2013,1211,17,6.0,46.0
+Small Residential Projects,2014,1356,13.0,7.0,34.0
+Small Residential Projects,2015,1452,14.0,7.0,41.0
+Small Residential Projects,2016,1602,16.0,8.0,37.2
+Small Residential Projects,2017,1706,18.0,8.0,52.0
+Small Residential Projects,2018,1689,22,9.0,52.5
+Small Residential Projects,2019,1797,24,10.0,56.0
+Small Residential Projects,2020,1641,29,13.0,71.0
+Small Residential Projects,2021,2252,32.0,14.0,76.8
+Small Residential Projects,2022,2370,42.0,16.0,99.0
+Small Residential Projects,2023,2309,29,10.0,73.5
+Small Residential Projects,2024,2890,20.0,7.0,63.0
+Small Residential Projects,2025,3847,21,8.0,58.0
+Small Residential Projects,2026,4199,14,5.0,33.0
+Temporary Structures,2019,11,23,15.0,58.0
+Temporary Structures,2021,13,21,10.5,63.5
+Temporary Structures,2022,14,26.5,14.5,31.0
+Temporary Structures,2023,34,15.0,3.0,30.2
+Temporary Structures,2024,74,8.0,4.0,26.0
+Temporary Structures,2025,159,12,3.0,29.0
+Temporary Structures,2026,190,8.0,3.0,21.0

@@ -1,0 +1,140 @@
+{
+ "source": "City of Toronto Open Data: Building Permits - Active Permits, retrieved 2026-10-08",
+ "records_total": 202779,
+ "records_with_both_dates": 187673,
+ "records_missing_dates": 14995,
+ "records_negative_days_excluded": 14,
+ "by_type": [
+  {
+   "permit_type": "Small Residential Projects",
+   "n": 43247,
+   "median_days": 19,
+   "p25_days": 7.0,
+   "p75_days": 51.0
+  },
+  {
+   "permit_type": "Plumbing(PS)",
+   "n": 41603,
+   "median_days": 31,
+   "p25_days": 10.0,
+   "p75_days": 73.0
+  },
+  {
+   "permit_type": "Mechanical(MS)",
+   "n": 34021,
+   "median_days": 35,
+   "p25_days": 16.0,
+   "p75_days": 83.0
+  },
+  {
+   "permit_type": "Building Additions/Alterations",
+   "n": 30600,
+   "median_days": 33.0,
+   "p25_days": 17.0,
+   "p75_days": 63.0
+  },
+  {
+   "permit_type": "Drain and Site Service",
+   "n": 13643,
+   "median_days": 28,
+   "p25_days": 3.0,
+   "p75_days": 99.0
+  },
+  {
+   "permit_type": "New Houses",
+   "n": 11149,
+   "median_days": 75,
+   "p25_days": 34.0,
+   "p75_days": 242.0
+  },
+  {
+   "permit_type": "Fire/Security Upgrade",
+   "n": 4489,
+   "median_days": 27,
+   "p25_days": 11.0,
+   "p75_days": 35.0
+  },
+  {
+   "permit_type": "New Building",
+   "n": 2183,
+   "median_days": 272,
+   "p25_days": 63.0,
+   "p75_days": 764.0
+  },
+  {
+   "permit_type": "Residential Building Permit",
+   "n": 2151,
+   "median_days": 57,
+   "p25_days": 14.0,
+   "p75_days": 165.0
+  },
+  {
+   "permit_type": "Demolition Folder (DM)",
+   "n": 1640,
+   "median_days": 75.0,
+   "p25_days": 42.0,
+   "p75_days": 188.8
+  },
+  {
+   "permit_type": "Designated Structures",
+   "n": 1264,
+   "median_days": 22.0,
+   "p25_days": 7.0,
+   "p75_days": 44.0
+  },
+  {
+   "permit_type": "Temporary Structures",
+   "n": 536,
+   "median_days": 10.5,
+   "p25_days": 3.2,
+   "p75_days": 26.8
+  },
+  {
+   "permit_type": "Non-Residential Building Permit",
+   "n": 470,
+   "median_days": 57.5,
+   "p25_days": 18.8,
+   "p75_days": 137.0
+  },
+  {
+   "permit_type": "Portable Classrooms",
+   "n": 217,
+   "median_days": 49,
+   "p25_days": 29.0,
+   "p75_days": 91.5
+  },
+  {
+   "permit_type": "Conditional Permit",
+   "n": 207,
+   "median_days": 42,
+   "p25_days": 17.0,
+   "p75_days": 88.0
+  },
+  {
+   "permit_type": "Multiple Use Permit",
+   "n": 128,
+   "median_days": 82.0,
+   "p25_days": 17.0,
+   "p75_days": 266.0
+  },
+  {
+   "permit_type": "Partial Permit",
+   "n": 112,
+   "median_days": 81.0,
+   "p25_days": 10.0,
+   "p75_days": 277.2
+  },
+  {
+   "permit_type": "Site Inspection(Scarborough)",
+   "n": 13,
+   "median_days": 0,
+   "p25_days": 0.0,
+   "p75_days": 0.0
+  }
+ ],
+ "caveats": [
+  "Snapshot of permits active as of 2026-10-08; older application years only include permits still open (survivorship bias).",
+  "Days are calendar days from application to issuance; review rounds and applicant response time are not separated.",
+  "Negative day values and values over 10 years were excluded as data-entry errors."
+ ]
+}

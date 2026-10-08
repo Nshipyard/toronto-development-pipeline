@@ -1,0 +1,918 @@
+{
+ "source": "City of Toronto Open Data: Development Pipeline (official analytical dataset), retrieved 2026-10-08",
+ "records": 2391,
+ "xy_match_rate": 0.9678,
+ "hood_match_rate": 0.9615,
+ "status_counts": {
+  "proposed": 655,
+  "active": 1089,
+  "built": 647
+ },
+ "units_by_status": {
+  "proposed": 367469,
+  "active": 435737,
+  "built": 124326
+ },
+ "total_proposed_units": 927532,
+ "built_units": 124326,
+ "built_by_neighbourhood": {
+  "166": {
+   "units": 12113,
+   "projects": 31,
+   "name": "St Lawrence-East Bayfront-The Islands"
+  },
+  "164": {
+   "units": 7190,
+   "projects": 22,
+   "name": "Wellington Place"
+  },
+  "168": {
+   "units": 7079,
+   "projects": 19,
+   "name": "Downtown Yonge East"
+  },
+  "052": {
+   "units": 4871,
+   "projects": 11,
+   "name": "Bayview Village"
+  },
+  "169": {
+   "units": 4800,
+   "projects": 9,
+   "name": "Bay-Cloverhill"
+  },
+  "173": {
+   "units": 4767,
+   "projects": 8,
+   "name": "North Toronto"
+  },
+  "163": {
+   "units": 3576,
+   "projects": 8,
+   "name": "Fort York-Liberty Village"
+  },
+  "165": {
+   "units": 3078,
+   "projects": 8,
+   "name": "Harbourfront-CityPlace"
+  },
+  "078": {
+   "units": 2893,
+   "projects": 10,
+   "name": "Kensington-Chinatown"
+  },
+  "159": {
+   "units": 2683,
+   "projects": 13,
+   "name": "Etobicoke City Centre"
+  },
+  "072": {
+   "units": 2240,
+   "projects": 7,
+   "name": "Regent Park"
+  },
+  "100": {
+   "units": 2133,
+   "projects": 7,
+   "name": "Yonge-Eglinton"
+  },
+  "161": {
+   "units": 2077,
+   "projects": 3,
+   "name": "Humber Bay Shores"
+  },
+  "073": {
+   "units": 2049,
+   "projects": 7,
+   "name": "Moss Park"
+  },
+  "009": {
+   "units": 2032,
+   "projects": 3,
+   "name": "Edenbridge-Humber Valley"
+  },
+  "170": {
+   "units": 1980,
+   "projects": 10,
+   "name": "Yonge-Bay Corridor"
+  },
+  "160": {
+   "units": 1923,
+   "projects": 6,
+   "name": "Mimico-Queensway"
+  },
+  "074": {
+   "units": 1795,
+   "projects": 4,
+   "name": "North St.James Town"
+  },
+  "155": {
+   "units": 1724,
+   "projects": 8,
+   "name": "Downsview"
+  },
+  "033": {
+   "units": 1665,
+   "projects": 5,
+   "name": "Clanton Park"
+  },
+  "174": {
+   "units": 1581,
+   "projects": 9,
+   "name": "South Eglinton-Davisville"
+  },
+  "091": {
+   "units": 1458,
+   "projects": 5,
+   "name": "Weston-Pelham Park"
+  },
+  "053": {
+   "units": 1421,
+   "projects": 5,
+   "name": "Henry Farm"
+  },
+  "095": {
+   "units": 1370,
+   "projects": 19,
+   "name": "Annex"
+  },
+  "016": {
+   "units": 1276,
+   "projects": 7,
+   "name": "Stonegate-Queensway"
+  },
+  "063": {
+   "units": 1268,
+   "projects": 12,
+   "name": "The Beaches"
+  },
+  "042": {
+   "units": 1263,
+   "projects": 6,
+   "name": "Banbury-Don Mills"
+  },
+  "167": {
+   "units": 1247,
+   "projects": 3,
+   "name": "Church-Wellesley"
+  },
+  "036": {
+   "units": 1230,
+   "projects": 4,
+   "name": "Newtonbrook West"
+  },
+  "079": {
+   "units": 1039,
+   "projects": 8,
+   "name": "University"
+  },
+  "031": {
+   "units": 1015,
+   "projects": 6,
+   "name": "Yorkdale-Glen Park"
+  },
+  "085": {
+   "units": 988,
+   "projects": 9,
+   "name": "South Parkdale"
+  },
+  "097": {
+   "units": 926,
+   "projects": 5,
+   "name": "Yonge-St.Clair"
+  },
+  "136": {
+   "units": 925,
+   "projects": 7,
+   "name": "West Hill"
+  },
+  "032": {
+   "units": 908,
+   "projects": 6,
+   "name": "Englemount-Lawrence"
+  },
+  "080": {
+   "units": 890,
+   "projects": 2,
+   "name": "Palmerston-Little Italy"
+  },
+  "118": {
+   "units": 876,
+   "projects": 3,
+   "name": "Tam O'Shanter-Sullivan"
+  },
+  "055": {
+   "units": 815,
+   "projects": 4,
+   "name": "Thorncliffe Park"
+  },
+  "122": {
+   "units": 805,
+   "projects": 9,
+   "name": "Birchcliffe-Cliffside"
+  },
+  "071": {
+   "units": 770,
+   "projects": 3,
+   "name": "Cabbagetown-South St.James Town"
+  },
+  "151": {
+   "units": 737,
+   "projects": 2,
+   "name": "Yonge-Doris"
+  },
+  "126": {
+   "units": 736,
+   "projects": 6,
+   "name": "Dorset Park"
+  },
+  "158": {
+   "units": 726,
+   "projects": 2,
+   "name": "Islington"
+  },
+  "086": {
+   "units": 726,
+   "projects": 4,
+   "name": "Roncesvalles"
+  },
+  "087": {
+   "units": 722,
+   "projects": 4,
+   "name": "High Park-Swansea"
+  },
+  "047": {
+   "units": 690,
+   "projects": 4,
+   "name": "Don Valley Village"
+  },
+  "062": {
+   "units": 681,
+   "projects": 4,
+   "name": "East End-Danforth"
+  },
+  "171": {
+   "units": 656,
+   "projects": 4,
+   "name": "Junction-Wallace Emerson"
+  },
+  "112": {
+   "units": 624,
+   "projects": 2,
+   "name": "Beechborough-Greenbrook"
+  },
+  "070": {
+   "units": 567,
+   "projects": 13,
+   "name": "South Riverdale"
+  },
+  "172": {
+   "units": 564,
+   "projects": 3,
+   "name": "Dovercourt Village"
+  },
+  "044": {
+   "units": 552,
+   "projects": 1,
+   "name": "Flemingdon Park"
+  },
+  "106": {
+   "units": 537,
+   "projects": 4,
+   "name": "Humewood-Cedarvale"
+  },
+  "022": {
+   "units": 514,
+   "projects": 1,
+   "name": "Humbermede"
+  },
+  "090": {
+   "units": 506,
+   "projects": 4,
+   "name": "Junction Area"
+  },
+  "099": {
+   "units": 492,
+   "projects": 5,
+   "name": "Mount Pleasant East"
+  },
+  "061": {
+   "units": 484,
+   "projects": 1,
+   "name": "Taylor-Massey"
+  },
+  "043": {
+   "units": 453,
+   "projects": 7,
+   "name": "Victoria Village"
+  },
+  "101": {
+   "units": 426,
+   "projects": 2,
+   "name": "Forest Hill South"
+  },
+  "027": {
+   "units": 423,
+   "projects": 4,
+   "name": "York University Heights"
+  },
+  "143": {
+   "units": 422,
+   "projects": 1,
+   "name": "West Rouge"
+  },
+  "120": {
+   "units": 390,
+   "projects": 2,
+   "name": "Clairlea-Birchmount"
+  },
+  "015": {
+   "units": 390,
+   "projects": 2,
+   "name": "Kingsway South"
+  },
+  "037": {
+   "units": 389,
+   "projects": 5,
+   "name": "Willowdale West"
+  },
+  "153": {
+   "units": 387,
+   "projects": 5,
+   "name": "Avondale"
+  },
+  "147": {
+   "units": 384,
+   "projects": 2,
+   "name": "L'Amoreaux West"
+  },
+  "038": {
+   "units": 380,
+   "projects": 3,
+   "name": "Lansing-Westgate"
+  },
+  "096": {
+   "units": 320,
+   "projects": 5,
+   "name": "Casa Loma"
+  },
+  "094": {
+   "units": 313,
+   "projects": 4,
+   "name": "Wychwood"
+  },
+  "010": {
+   "units": 312,
+   "projects": 2,
+   "name": "Princess-Rosethorn"
+  },
+  "162": {
+   "units": 307,
+   "projects": 2,
+   "name": "West Queen West"
+  },
+  "030": {
+   "units": 304,
+   "projects": 3,
+   "name": "Brookhaven-Amesbury"
+  },
+  "145": {
+   "units": 298,
+   "projects": 3,
+   "name": "Malvern West"
+  },
+  "081": {
+   "units": 288,
+   "projects": 6,
+   "name": "Trinity-Bellwoods"
+  },
+  "039": {
+   "units": 284,
+   "projects": 5,
+   "name": "Bedford Park-Nortown"
+  },
+  "098": {
+   "units": 263,
+   "projects": 2,
+   "name": "Rosedale-Moore Park"
+  },
+  "156": {
+   "units": 250,
+   "projects": 1,
+   "name": "Bendale-Glen Andrew"
+  },
+  "119": {
+   "units": 246,
+   "projects": 3,
+   "name": "Wexford/Maryvale"
+  },
+  "012": {
+   "units": 234,
+   "projects": 1,
+   "name": "Markland Wood"
+  },
+  "113": {
+   "units": 233,
+   "projects": 2,
+   "name": "Weston"
+  },
+  "123": {
+   "units": 204,
+   "projects": 2,
+   "name": "Cliffcrest"
+  },
+  "018": {
+   "units": 200,
+   "projects": 2,
+   "name": "New Toronto"
+  },
+  "054": {
+   "units": 194,
+   "projects": 2,
+   "name": "O'Connor-Parkview"
+  },
+  "129": {
+   "units": 186,
+   "projects": 1,
+   "name": "Agincourt North"
+  },
+  "121": {
+   "units": 180,
+   "projects": 4,
+   "name": "Oakridge"
+  },
+  "140": {
+   "units": 175,
+   "projects": 2,
+   "name": "Guildwood"
+  },
+  "109": {
+   "units": 168,
+   "projects": 2,
+   "name": "Caledonia-Fairbank"
+  },
+  "102": {
+   "units": 150,
+   "projects": 1,
+   "name": "Forest Hill North"
+  },
+  "046": {
+   "units": 142,
+   "projects": 2,
+   "name": "Pleasant View"
+  },
+  "089": {
+   "units": 131,
+   "projects": 2,
+   "name": "Runnymede-Bloor West Village"
+  },
+  "029": {
+   "units": 128,
+   "projects": 1,
+   "name": "Maple Leaf"
+  },
+  "001": {
+   "units": 126,
+   "projects": 16,
+   "name": "West Humber-Clairville"
+  },
+  "008": {
+   "units": 126,
+   "projects": 1,
+   "name": "Humber Heights-Westmount"
+  },
+  "069": {
+   "units": 124,
+   "projects": 4,
+   "name": "Blake-Jones"
+  },
+  "083": {
+   "units": 116,
+   "projects": 2,
+   "name": "Dufferin Grove"
+  },
+  "088": {
+   "units": 111,
+   "projects": 1,
+   "name": "High Park North"
+  },
+  "115": {
+   "units": 105,
+   "projects": 4,
+   "name": "Mount Dennis"
+  },
+  "103": {
+   "units": 102,
+   "projects": 3,
+   "name": "Lawrence Park South"
+  },
+  "108": {
+   "units": 99,
+   "projects": 1,
+   "name": "Briar Hill-Belgravia"
+  },
+  "021": {
+   "units": 88,
+   "projects": 5,
+   "name": "Humber Summit"
+  },
+  "149": {
+   "units": 67,
+   "projects": 1,
+   "name": "Parkwoods-O'Connor Hills"
+  },
+  "148": {
+   "units": 60,
+   "projects": 4,
+   "name": "East L'Amoreaux"
+  },
+  "060": {
+   "units": 59,
+   "projects": 1,
+   "name": "Woodbine-Lumsden"
+  },
+  "152": {
+   "units": 51,
+   "projects": 5,
+   "name": "East Willowdale"
+  },
+  "056": {
+   "units": 51,
+   "projects": 4,
+   "name": "Leaside-Bennington"
+  },
+  "011": {
+   "units": 42,
+   "projects": 1,
+   "name": "Eringate-Centennial-West Deane"
+  },
+  "092": {
+   "units": 41,
+   "projects": 1,
+   "name": "Corso Italia-Davenport"
+  },
+  "068": {
+   "units": 33,
+   "projects": 1,
+   "name": "North Riverdale"
+  },
+  "065": {
+   "units": 32,
+   "projects": 2,
+   "name": "Greenwood-Coxwell"
+  },
+  "049": {
+   "units": 30,
+   "projects": 1,
+   "name": "Bayview Woods-Steeles"
+  },
+  "019": {
+   "units": 28,
+   "projects": 2,
+   "name": "Long Branch"
+  },
+  "064": {
+   "units": 28,
+   "projects": 1,
+   "name": "Woodbine Corridor"
+  },
+  "066": {
+   "units": 17,
+   "projects": 1,
+   "name": "Danforth"
+  },
+  "050": {
+   "units": 14,
+   "projects": 2,
+   "name": "Newtonbrook East"
+  },
+  "040": {
+   "units": 13,
+   "projects": 5,
+   "name": "St.Andrew-Windfields"
+  },
+  "134": {
+   "units": 12,
+   "projects": 3,
+   "name": "Highland Creek"
+  },
+  "107": {
+   "units": 7,
+   "projects": 1,
+   "name": "Oakwood Village"
+  },
+  "133": {
+   "units": 7,
+   "projects": 1,
+   "name": "Centennial Scarborough"
+  },
+  "020": {
+   "units": 6,
+   "projects": 5,
+   "name": "Alderwood"
+  },
+  "023": {
+   "units": 5,
+   "projects": 2,
+   "name": "Pelmo Park-Humberlea"
+  },
+  "084": {
+   "units": 1,
+   "projects": 1,
+   "name": "Little Portugal"
+  },
+  "034": {
+   "units": 0,
+   "projects": 5,
+   "name": "Bathurst Manor"
+  },
+  "142": {
+   "units": 0,
+   "projects": 1,
+   "name": "Woburn North"
+  },
+  "041": {
+   "units": 0,
+   "projects": 1,
+   "name": "Bridle Path-Sunnybrook-York Mills"
+  },
+  "144": {
+   "units": 0,
+   "projects": 10,
+   "name": "Morningside Heights"
+  },
+  "135": {
+   "units": 0,
+   "projects": 2,
+   "name": "Morningside"
+  },
+  "111": {
+   "units": 0,
+   "projects": 2,
+   "name": "Rockcliffe-Smythe"
+  },
+  "146": {
+   "units": 0,
+   "projects": 2,
+   "name": "Malvern East"
+  },
+  "035": {
+   "units": 0,
+   "projects": 2,
+   "name": "Westminster-Branson"
+  },
+  "059": {
+   "units": 0,
+   "projects": 1,
+   "name": "Danforth East York"
+  },
+  "128": {
+   "units": 0,
+   "projects": 1,
+   "name": "Agincourt South-Malvern West"
+  },
+  "110": {
+   "units": 0,
+   "projects": 3,
+   "name": "Keelesdale-Eglinton West"
+  },
+  "025": {
+   "units": 0,
+   "projects": 2,
+   "name": "Glenfield-Jane Heights"
+  },
+  "116": {
+   "units": 0,
+   "projects": 1,
+   "name": "Steeles"
+  },
+  "124": {
+   "units": 0,
+   "projects": 1,
+   "name": "Kennedy Park"
+  },
+  "154": {
+   "units": 0,
+   "projects": 1,
+   "name": "Oakdale-Beverley Heights"
+  },
+  "024": {
+   "units": 0,
+   "projects": 1,
+   "name": "Black Creek"
+  },
+  "130": {
+   "units": 0,
+   "projects": 2,
+   "name": "Milliken"
+  },
+  "048": {
+   "units": 0,
+   "projects": 1,
+   "name": "Hillcrest Village"
+  },
+  "006": {
+   "units": 0,
+   "projects": 1,
+   "name": "Kingsview Village-The Westway"
+  },
+  "028": {
+   "units": 0,
+   "projects": 1,
+   "name": "Rustic"
+  }
+ },
+ "pipeline_units_by_neighbourhood": {
+  "120": 41829,
+  "159": 35425,
+  "166": 26681,
+  "070": 22327,
+  "156": 21474,
+  "036": 20889,
+  "160": 20026,
+  "044": 19876,
+  "142": 17526,
+  "174": 16679,
+  "170": 16008,
+  "031": 15194,
+  "042": 15145,
+  "033": 15032,
+  "155": 14860,
+  "164": 13776,
+  "165": 13539,
+  "169": 13403,
+  "073": 13111,
+  "027": 12265,
+  "100": 12032,
+  "090": 11334,
+  "099": 9763,
+  "167": 9743,
+  "161": 9586,
+  "168": 9524,
+  "062": 9514,
+  "115": 8928,
+  "074": 8365,
+  "119": 8213,
+  "153": 8098,
+  "047": 7857,
+  "158": 7716,
+  "052": 7680,
+  "053": 7602,
+  "108": 7548,
+  "022": 7161,
+  "032": 6837,
+  "097": 6767,
+  "025": 6730,
+  "078": 6569,
+  "128": 6429,
+  "072": 6276,
+  "091": 6168,
+  "016": 6051,
+  "113": 5841,
+  "083": 5502,
+  "050": 5470,
+  "110": 5287,
+  "037": 5261,
+  "038": 5212,
+  "085": 5114,
+  "136": 4932,
+  "171": 4898,
+  "095": 4767,
+  "087": 4549,
+  "118": 4482,
+  "163": 4307,
+  "123": 4197,
+  "173": 3880,
+  "035": 3862,
+  "107": 3736,
+  "056": 3357,
+  "079": 3228,
+  "139": 3171,
+  "109": 3073,
+  "020": 3043,
+  "094": 2998,
+  "122": 2719,
+  "013": 2640,
+  "129": 2636,
+  "040": 2600,
+  "023": 2595,
+  "088": 2487,
+  "055": 2406,
+  "010": 2388,
+  "124": 2350,
+  "043": 2259,
+  "034": 2108,
+  "011": 2095,
+  "147": 2070,
+  "086": 1894,
+  "111": 1835,
+  "141": 1780,
+  "157": 1677,
+  "121": 1673,
+  "049": 1642,
+  "063": 1595,
+  "024": 1519,
+  "138": 1491,
+  "154": 1475,
+  "152": 1431,
+  "068": 1422,
+  "162": 1364,
+  "012": 1333,
+  "015": 1292,
+  "057": 1259,
+  "061": 1252,
+  "096": 1186,
+  "019": 1179,
+  "148": 1131,
+  "006": 1107,
+  "054": 1102,
+  "106": 1036,
+  "018": 948,
+  "145": 895,
+  "009": 891,
+  "098": 880,
+  "030": 860,
+  "039": 801,
+  "143": 790,
+  "064": 751,
+  "041": 650,
+  "089": 646,
+  "130": 597,
+  "102": 574,
+  "126": 555,
+  "133": 530,
+  "069": 504,
+  "067": 486,
+  "004": 449,
+  "029": 418,
+  "008": 410,
+  "125": 375,
+  "084": 336,
+  "146": 318,
+  "172": 316,
+  "001": 312,
+  "103": 307,
+  "101": 305,
+  "140": 285,
+  "135": 274,
+  "092": 271,
+  "081": 259,
+  "134": 250,
+  "003": 202,
+  "151": 196,
+  "149": 185,
+  "021": 137,
+  "002": 107,
+  "105": 93,
+  "065": 83,
+  "058": 73,
+  "007": 72,
+  "046": 62,
+  "071": 59,
+  "114": 58,
+  "028": 28,
+  "080": 12,
+  "112": 0,
+  "144": 0,
+  "048": 0,
+  "150": 0,
+  "116": 0
+ },
+ "status_taxonomy": {
+  "proposed": "Under Review in the source: application submitted, decision pending.",
+  "active": "Active in the source: approved or under construction, not yet recorded complete.",
+  "built": "Built in the source: completed. These units count as homes gained."
+ },
+ "caveats": [
+  "Unit counts are proposed units from planning applications, not final occupancy counts.",
+  "The pipeline covers larger developments requiring Planning Act approvals; as-of-right development below the Site Plan Control threshold is excluded.",
+  "77 of 2391 records had no coordinate match in Development Applications; 15 matched coordinates fell outside the 158 model."
+ ],
+ "wards": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10",
+  "11",
+  "12",
+  "13",
+  "14",
+  "15",
+  "16",
+  "17",
+  "18",
+  "19",
+  "20",
+  "21",
+  "22",
+  "23",
+  "24",
+  "25"
+ ]
+}
