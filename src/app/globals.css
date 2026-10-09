@@ -39,3 +39,8 @@ body {
   background: var(--color-canada);
   color: #fff;
 }
+
+/* Sticky-nav anchor offset: in-page anchors never hide under the fixed header. */
+section[id] {
+  scroll-margin-top: 88px;
+}
