@@ -76,7 +76,10 @@ function Footer() {
       <div className="mx-auto max-w-[1392px] px-6 py-14">
         <div className="flex items-center gap-2.5">
           <MapleLeaf className="h-7 w-7 text-canada" />
-          <span className="display text-[24px]">Development Pipeline</span>
+          <span className="flex flex-col gap-[2px] leading-none">
+            <span className="text-[11px] font-semibold uppercase tracking-[0.14em] text-white/55">Open Nshipyard</span>
+            <span className="display text-[24px]">Development Pipeline</span>
+          </span>
         </div>
         <p className="mt-4 max-w-[720px] text-[14.5px] text-white/70">{f.line}</p>
         <p className="mt-2 max-w-[720px] text-[13px] text-white/50">{f.sources}</p>

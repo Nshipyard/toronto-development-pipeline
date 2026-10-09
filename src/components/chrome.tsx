@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useLang } from "@/i18n";
 import MapleLeaf from "./MapleLeaf";
 
@@ -21,23 +21,6 @@ export function Banner() {
 export function Nav() {
   const { t, lang, setLang } = useLang();
   const [open, setOpen] = useState(false);
-  const [scrolled, setScrolled] = useState(false);
-
-  useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 8);
-    onScroll();
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
-  }, []);
-
-  useEffect(() => {
-    if (!open) return;
-    const onKey = (e: KeyboardEvent) => {
-      if (e.key === "Escape") setOpen(false);
-    };
-    window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
-  }, [open]);
   const links = [
     { href: "#explorer", label: t.nav.explorer },
     { href: "#homes", label: t.nav.homes },
@@ -46,15 +29,11 @@ export function Nav() {
     { href: "#data", label: t.nav.data },
   ];
   return (
-    <header
-      className={`sticky top-0 z-50 border-b border-line bg-paper/90 backdrop-blur transition-shadow ${
-        scrolled ? "shadow-[0_12px_32px_rgba(10,15,30,0.10)]" : ""
-      }`}
-    >
+    <header className="border-b border-line bg-paper/90 backdrop-blur">
       <div className="mx-auto flex max-w-[1392px] items-center justify-between px-6 py-4">
         <a href="#top" className="flex items-center gap-2.5">
           <MapleLeaf className="h-7 w-7 text-canada" />
-          <span className="display text-[24px]">Development Pipeline</span>
+          <span className="flex flex-col gap-[2px] leading-none"><span className="text-[11px] font-semibold uppercase tracking-[0.14em] text-ink/55">Open Nshipyard</span><span className="display text-[24px]">Development Pipeline</span></span>
         </a>
         <nav className="hidden items-center gap-7 md:flex">
           {links.map((l) => (
@@ -105,7 +84,7 @@ export function Nav() {
         </div>
       </div>
       {open && (
-        <nav className="absolute inset-x-0 top-full border-b border-line bg-paper/95 px-6 py-4 shadow-[0_24px_48px_rgba(10,15,30,0.12)] backdrop-blur md:hidden">
+        <nav className="border-t border-line px-6 py-4 md:hidden">
           {links.map((l) => (
             <a
               key={l.href}
