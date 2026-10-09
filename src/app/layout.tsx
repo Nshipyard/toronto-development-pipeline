@@ -11,11 +11,25 @@ export const metadata: Metadata = {
   title: "Toronto Development Pipeline — which neighbourhoods gained homes, and how long permits take",
   description:
     "A normalized feed of Toronto's housing development pipeline: 2,391 applications with statuses and proposed units, net homes gained by neighbourhood, and building-permit issuance times. Explorer, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.",
+  icons: {
+    icon: [
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      "/favicon.ico",
+    ],
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className="h-full antialiased">
+      <head>
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+      </head>
       <body className="min-h-full flex flex-col">
         <LangProvider>{children}</LangProvider>
       </body>
