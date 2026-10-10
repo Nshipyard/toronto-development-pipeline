@@ -9,6 +9,7 @@ import { LangProvider } from "@/i18n";
 import { PosthogProvider } from "../components/PosthogProvider";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://development.canada.nshipyard.com"),
   title: "Toronto Development Pipeline — which neighbourhoods gained homes, and how long permits take",
   description:
     "A normalized feed of Toronto's housing development pipeline: 2,391 applications with statuses and proposed units, net homes gained by neighbourhood, and building-permit issuance times. Explorer, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.",
